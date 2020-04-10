@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  background-color: #f8f9fa;
+}
+
+.main {
+  max-width: 500px;
+  margin: -50px auto auto;
+  padding: 0 15px 15px;
+  width: 100%;
+  text-align: center;
+}
+
+.emoji {
+  font-size: 72px;
+}
